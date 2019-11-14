@@ -6,13 +6,14 @@ In Convolution the filter values are multiplied to the entire input image again 
 
 Kernels are 2d/3d matrices which store some value which gets multiplied to the input image and then summed to give the output. At the beginning the filter values are random.
 
-**<u>Epoch****</u>**
+**<u>Epoch</u>**
 
 Epoch is the number of times the model goes through the input data for training. Backpropagation runs after each epoch 
 
 <u>**1x1 convolution**</u>
 
-1x1 convolution can be either used to increase or decrease the number of channels. This operation is normally performed after a Max Pooling Layer. Although it can be used to increase/decrease number of channels, in most cases it is used to decrease the number of channels.                                                                                                                                Eg (100x100x256) | (1x1x256x32) - (100x100x32)
+1x1 convolution can be either used to increase or decrease the number of channels. This operation is normally performed after a Max Pooling Layer. Although it can be used to increase/decrease number of channels, in most cases it is used to decrease the number of channels.                                                                                                                                
+Eg (100x100x256) | (1x1x256x32) - (100x100x32)
 
 <u>**3x3 convolution**</u>
 
