@@ -6,7 +6,7 @@
 
 **=>** Utkarsh Pandey - Friday, Online
 
-**=>** Gaurav Pandey - Wednesday, Online (Me)                                      
+**=>** Gaurav Pandey - Wednesday, Online                                     
 
 **=>** Aditya Shukla - Saturday, Online
 
