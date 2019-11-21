@@ -80,14 +80,13 @@ Epoch 20/20
 Epoch 00020: LearningRateScheduler setting learning rate to 0.000424869.
 60000/60000 [==============================] - 8s 126us/step - loss: 0.0896 - acc: 0.9593 - val_loss: 0.0199 - val_acc: 0.9947
 
-score = model.evaluate(X_test, Y_test, verbose=0)
-print(score)
+[0.019932233119336888, 0.9947]
 
 <u>**Group Members**</u>   
 
 **=>** Utkarsh Pandey - Friday, Online
 
-**=>** Gaurav Pandey - Wednesday, Online (Me)                                      
+**=>** Gaurav Pandey - Wednesday, Online                                     
 
 **=>** Aditya Shukla - Saturday, Online
 
