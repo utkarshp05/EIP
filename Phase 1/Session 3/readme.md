@@ -277,3 +277,11 @@ Epoch 00050: LearningRateScheduler setting learning rate to 0.000180386.
 390/390 [==============================] - 22s 58ms/step - loss: 0.5094 - acc: 0.8215 - val_loss: 0.5958 - val_acc: 0.8045
 Model took 1151.52 seconds to train
 ```
+
+**Group Members**
+
+=> Utkarsh Pandey - Saturday, Online
+
+=> Gaurav Pandey - Wednesday, Online
+
+=> Aditya Shukla - Saturday, Online
